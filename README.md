@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/luisDur8/luisDur8/blob/main/code.gif" alt="Gif de Developer"/>
 <h1 align="center">Hi 👋, I'm luisDur</h1>
 <h3 align="center">Enthusiastic about helping my community and learning from others.</h3>
 <br><br>

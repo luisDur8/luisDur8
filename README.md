@@ -12,13 +12,13 @@ Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líd
 
 ### Algunas Páginas Web
 
-- [Una primer página para dar cursos](https://github.com/luisDur8/CodeCamping)
+- [Una primera página para dar cursos](https://github.com/luisDur8/CodeCamping)
 
 - [Una página simple para un freelancer](https://github.com/luisDur8/freelancer)
 
 - [Una base para la página del grupo TH](https://github.com/luisDur8/th-page)
 
--[Página simple sobre las rutas para ser desarrollador web](https://github.com/luisDur8/TS-Rutas)
+- [Página simple sobre las rutas para ser desarrollador web](https://github.com/luisDur8/TS-Rutas)
 
 ### Algunos Proyectos
 
@@ -31,3 +31,8 @@ Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líd
 ### Creaciones en Organizaciones
 
 - [Notas para un Taller FullStack](https://github.com/desarrolladoresTH/BootCamp-FullStack)
+
+### Contáctame
+
+- [Email](mailto:luisdurplay@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/luis-loher-web-developer)

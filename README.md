@@ -1,10 +1,6 @@
 ![](banner-github.png)
 
-## ¡Hola! Soy un <span style="color: blue;">Dev</span> del Estado de México. 😊
-
----
-
-Matemático y Computólogo.
+# ¡Hola! Soy un <span style="color: #72577c;">Dev</span> del Estado de México. 😊
 
 Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líder de proyectos │ Educador y Divulgador
 
@@ -35,4 +31,5 @@ Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líd
 ### Contáctame
 
 - [Email](mailto:luisdurplay@gmail.com)
+
 - [LinkedIn](https://www.linkedin.com/in/luis-loher-web-developer)

@@ -1,10 +1,14 @@
 ![](banner-github.png)
 
-# ¡Hola! Soy un <span style="color: #72577c;">Dev</span> del Estado de México. 😊
+# ¡Hola Mundo! Soy un `Dev` del Estado de México. 😊
 
-Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líder de proyectos │ Educador y Divulgador
+Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líder de Proyectos │ Educador y Divulgador
 
 ---
+
+> Habilidades Tecnológicas
+>
+> Scrum, HTML, CSS, Bootstrap, Tailwind, Diseño y Desarrollo Responsive, JavaScript, TypeScript, React, Python, Java, C, SQL(MySQL Y Oracle), Markdown, Git/GitHub, POO, CMS(Wordpress), Terminal de Comandos, Trello, VSC y Emmet, Colaboratory, Excel Avanzado, Power BI, Office, Inglés Técnico.
 
 ### Algunas Páginas Web
 

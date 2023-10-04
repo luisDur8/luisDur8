@@ -1,6 +1,6 @@
 ![](banner-github.png)
 
-# ¡Hola Mundo! Soy un `Dev` del Estado de México. 😊
+# ¡Hola Mundo! Soy un `Dev` del Estado de México 😊
 
 Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líder de Proyectos │ Educador y Divulgador
 
@@ -14,17 +14,17 @@ Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líd
 
 ### Algunas Páginas Web
 
-- [Una primera página para dar cursos](https://github.com/luisDur8/CodeCamping)
+- [Una primera página para dar cursos](https://luisdur8.github.io/CodeCamping)
 
-- [Una página simple para un freelancer](https://github.com/luisDur8/freelancer)
+- [Una página simple para un freelancer](https://luisdur8.github.io/freelancer)
 
-- [Una base para la página del grupo TH](https://github.com/luisDur8/th-page)
+- [Una base para la página del grupo TH](https://luisdur8.github.io/th-page)
 
-- [Página simple sobre las rutas para ser desarrollador web](https://github.com/luisDur8/TS-Rutas)
+- [Página simple sobre las rutas para ser desarrollador web](https://luisdur8.github.io/TS-Rutas)
 
 ### Algunos Proyectos
 
-- [Primera Red Neuronal](https://github.com/luisDur8/Primera-Red-Neuronal)
+- [Primera Red Neuronal](https://luisdur8.github.io/Primera-Red-Neuronal)
 
 - [Un primer análisis de datos con R](https://github.com/luisDur8/Analisis-Avanzado-R)
 
@@ -32,6 +32,7 @@ Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líd
 
 ### Creaciones en Organizaciones
 
+- [Base de una página para una Mueblería](https://banana-code-5.github.io/muebleria)
 - [Notas para un Taller FullStack](https://github.com/desarrolladoresTH/BootCamp-FullStack)
 
 ### Contáctame

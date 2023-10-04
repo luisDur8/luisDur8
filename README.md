@@ -14,13 +14,17 @@ Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líd
 
 ### Algunas Páginas Web
 
-- [Una primera página para dar cursos](https://luisdur8.github.io/CodeCamping)
+- [Ecommerce con WP](https://catrinerias.com)
 
-- [Una página simple para un freelancer](https://luisdur8.github.io/freelancer)
+- [Página fullstack con React y Firebase](https://multipisosyazulejos.com)
+
+- [Una primera página para dar Cursos](https://luisdur8.github.io/CodeCamping)
+
+- [Una página simple para un Freelancer](https://luisdur8.github.io/freelancer)
 
 - [Una base para la página del grupo TH](https://luisdur8.github.io/th-page)
 
-- [Página simple sobre las rutas para ser desarrollador web](https://luisdur8.github.io/TS-Rutas)
+- [Página simple sobre las Rutas para ser Desarrollador Web](https://luisdur8.github.io/TS-Rutas)
 
 ### Algunos Proyectos
 
@@ -33,6 +37,7 @@ Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líd
 ### Creaciones en Organizaciones
 
 - [Base de una página para una Mueblería](https://banana-code-5.github.io/muebleria)
+
 - [Notas para un Taller FullStack](https://github.com/desarrolladoresTH/BootCamp-FullStack)
 
 ### Contáctame

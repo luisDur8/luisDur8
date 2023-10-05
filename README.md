@@ -6,9 +6,9 @@ Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líd
 
 ---
 
-> Habilidades Tecnológicas
+> **Habilidades Tecnológicas**
 >
-> Scrum, HTML, CSS, Bootstrap, Tailwind, Diseño y Desarrollo Responsive, JavaScript, TypeScript, React, Python, Java, C, SQL (MySQL Y Oracle), Markdown, Git/GitHub, POO, CMS (Wordpress), Terminal de Comandos, Trello, VSC y Emmet, Colaboratory, Excel Avanzado, Power BI, Office, Inglés Técnico.
+> Scrum, HTML, CSS, Bootstrap, Tailwind, Diseño y Desarrollo Responsive, JavaScript, TypeScript, React, Python, Java, C, SQL (MySQL y Oracle), Markdown, Git/GitHub, POO, CMS (Wordpress), Terminal de Comandos, Trello, VSC y Emmet, Colaboratory, Excel Avanzado, Power BI, Office, Inglés Técnico.
 
 ---
 
@@ -18,7 +18,7 @@ Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líd
 
 - [Página fullstack con React y Firebase](https://multipisosyazulejos.com)
 
-- [Una primera página para dar Cursos](https://luisdur8.github.io/CodeCamping)
+- [Página simple para compartir Recursos](https://luisdur8.github.io/thdevs-recursos/)
 
 - [Una página simple para un Freelancer](https://luisdur8.github.io/freelancer)
 

@@ -18,25 +18,13 @@ Analítico │ Programador │ Desarrollador Web │ Analísta de Datos │ Líd
 
 - [Página fullstack con React y Firebase](https://multipisosyazulejos.com)
 
-- [Página simple para compartir Recursos](https://luisdur8.github.io/thdevs-recursos/)
+- [Landing Page de un Freelancer](https://luisdur8.github.io/freelancer)
 
-- [Una página simple para un Freelancer](https://luisdur8.github.io/freelancer)
-
-- [Una base para la página del grupo TH](https://luisdur8.github.io/th-page)
-
-- [Página simple sobre las Rutas para ser Desarrollador Web](https://luisdur8.github.io/TS-Rutas)
-
-### Algunos Proyectos
-
-- [Primera Red Neuronal](https://luisdur8.github.io/Primera-Red-Neuronal)
-
-- [Un primer análisis de datos con R](https://github.com/luisDur8/Analisis-Avanzado-R)
-
-- [Un primer análisis de datos con Python](https://github.com/luisDur8/Analisis-Avanzado-Python)
+- [Página simple sobre las Rutas para ser Desarrollador/a Web](https://luisdur8.github.io/TS-Rutas)
 
 ### Creaciones en Organizaciones
 
-- [Base de una página para una Mueblería](https://banana-code-5.github.io/muebleria)
+- [Base para una página de una Mueblería](https://banana-code-5.github.io/muebleria)
 
 - [Notas para un Taller FullStack](https://github.com/desarrolladoresTH/BootCamp-FullStack)
 

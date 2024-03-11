@@ -11,7 +11,8 @@ Analítico │ Programador │ Desarrollador Web │ Líder de Proyectos │ Edu
 > Scrum, HTML, CSS, Bootstrap, Tailwind, Diseño y Desarrollo Responsive, JavaScript, TypeScript, React, Python, Java, C, SQL (MySQL y Oracle), Markdown, Git/GitHub, POO, CMS (Wordpress), Terminal de Comandos, Trello, VSC y Emmet, Colaboratory, Excel Avanzado, Power BI, Office, Inglés Técnico.
 
 ---
-Actualmente trabajo en **DevMatch**.
+Actualmente trabajo en **DevMatch** como líder del Frontend:
+[Página Web del Proytecto](https://devmatch-landingpage.netlify.app)
 
 ### Algunas Páginas Web
 

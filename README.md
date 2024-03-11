@@ -1,18 +1,10 @@
-![](banner-github.png)
+![banner](banner-github.png)
 
 # ¡Hola Mundo! Soy un `Dev` del Estado de México 😊
 
-Analítico │ Programador │ Desarrollador Web │ Líder de Proyectos │ Educador y Divulgador
+### Actualmente trabajo en **DevMatch**](https://devmatch-landingpage.netlify.app) como líder del Frontend.
 
 ---
-
-> **Habilidades Tecnológicas**
->
-> Scrum, HTML, CSS, Bootstrap, Tailwind, Diseño y Desarrollo Responsive, JavaScript, TypeScript, React, Python, Java, C, SQL (MySQL y Oracle), Markdown, Git/GitHub, POO, CMS (Wordpress), Terminal de Comandos, Trello, VSC y Emmet, Colaboratory, Excel Avanzado, Power BI, Office, Inglés Técnico.
-
----
-Actualmente trabajo en **DevMatch** como líder del Frontend:
-[Página Web del Proytecto](https://devmatch-landingpage.netlify.app)
 
 ### Algunas Páginas Web
 
@@ -27,6 +19,18 @@ Actualmente trabajo en **DevMatch** como líder del Frontend:
 ### Creaciones en Organizaciones
 
 - [Notas para un Taller FullStack](https://github.com/desarrolladoresTH/BootCamp-FullStack)
+
+---
+
+Analítico │ Programador │ Desarrollador Web │ Líder de Proyectos │ Educador y Divulgador
+
+---
+
+> **Habilidades Tecnológicas**
+>
+> Scrum, HTML, CSS, Bootstrap, Tailwind, Diseño y Desarrollo Responsive, JavaScript, TypeScript, React, Python, Java, C, SQL (MySQL y Oracle), Markdown, Git/GitHub, POO, CMS (Wordpress), Terminal de Comandos, Trello, VSC y Emmet, Colaboratory, Excel Avanzado, Power BI, Office, Inglés Técnico.
+
+---
 
 ### Contáctame
 

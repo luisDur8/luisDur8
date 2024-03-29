@@ -2,7 +2,7 @@
 
 # ¡Hola Mundo! Soy un `Dev` del Estado de México 😊
 
-### Actualmente trabajo en [**DevMatch**](https://devmatch-landingpage.netlify.app) como líder del Frontend.
+### Actualmente trabajo en [**DevMatch**](https://dev-match.netlify.app) como líder del Frontend.
 
 ---
 

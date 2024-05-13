@@ -2,7 +2,7 @@
 
 # ¡Hola Mundo! Soy un `Dev` del Estado de México 😊
 
-### Actualmente trabajo en [**DevMatch**](https://dev-match.netlify.app) como líder del Frontend.
+### Actualmente trabajo en [DevMatch](https://dev-match.netlify.app) como líder del Frontend.
 
 ---
 
@@ -28,12 +28,12 @@ Analítico │ Programador │ Desarrollador Web │ Líder de Proyectos │ Edu
 
 > **Habilidades Tecnológicas**
 >
-> Scrum, HTML, CSS, Bootstrap, Tailwind, Diseño y Desarrollo Responsive, JavaScript, TypeScript, React, Python, Java, C, SQL (MySQL y Oracle), Markdown, Git/GitHub, POO, CMS (Wordpress), Terminal de Comandos, Trello, VSC y Emmet, Colaboratory, Excel Avanzado, Power BI, Office, Inglés Técnico.
+> Git/GitHub, HTML, CSS, Bootstrap, Tailwind, Diseño y Desarrollo Responsive, JavaScript, TypeScript, React, Astro, Json, SQL, Python, Java, C, Markdown, Wordpress, Terminal de Comandos, Trello, VS Code, Emmet, Scrum, Kanban, Atomic Desing, Colaboratory, Office e Inglés Técnico.
 
 ---
 
 ### Contáctame
 
-- [Email](mailto:luisdurplay@gmail.com)
+- [Email](mailto:luisloher.dev@gmail.com)
 
 - [LinkedIn](https://www.linkedin.com/in/luis-loher-web-developer)

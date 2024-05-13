@@ -35,5 +35,3 @@ Analítico │ Programador │ Desarrollador Web │ Líder de Proyectos │ Edu
 ### Contáctame
 
 - [Email](mailto:luisloher.dev@gmail.com)
-
-- [LinkedIn](https://www.linkedin.com/in/luis-loher-web-developer)

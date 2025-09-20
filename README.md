@@ -1,37 +1,42 @@
 ![banner](banner-github.png)
 
-# ¡Hola Mundo! Soy un `Dev` del Estado de México 😊
+# ¡Hola Mundo! Soy un `Programador` mexicano. 😊
 
-### Actualmente trabajo en [DevMatch](https://dev-match.netlify.app) como líder del Frontend.
+### Actualmente, dirijo la agencia de marketing [Call Me Marketing](https://callmemarketing.com).
 
 ---
 
-### Algunas Páginas Web
+### Algunas Páginas Web que he creado
 
-- [Ecommerce con WP](https://catrinerias.com)
+- [Página hecha con WP](https://colectivademujeresrosaluxemburgo.org/)
 
-- [Página fullstack con React y Firebase](https://multipisosyazulejos.com)
+- [Página hecha con WP](https://iicisa.com/)
 
-- [Landing Page de un Freelancer](https://luisdur8.github.io/freelancer)
+- [Catálogo Web hecho con HTML, CSS y JS](https://salasvanguardia.com/)
 
-- [Página simple sobre las Rutas para ser Desarrollador/a Web](https://luisdur8.github.io/TS-Rutas)
+- [Invitación Web hecha con HTML, CSS y JS](https://wenydex.space/)
 
-### Creaciones en Organizaciones
+- [Tienda en línea hecha con WP](https://catrinerias.com/)
+
+
+
+### Creaciones que tengo en Organizaciones
 
 - [Notas para un Taller FullStack](https://github.com/desarrolladoresTH/BootCamp-FullStack)
 
 ---
 
-Analítico │ Programador │ Desarrollador Web │ Líder de Proyectos │ Educador y Divulgador
+Matemático Aplicado | Desarrollador Web Frontend | Científico de Datos | Docente | Divulgador | Líder de Equipos 
 
 ---
 
 > **Habilidades Tecnológicas**
 >
-> Git/GitHub, HTML, CSS, Bootstrap, Tailwind, Diseño y Desarrollo Responsive, JavaScript, TypeScript, React, Astro, Json, SQL, Python, Java, C, Markdown, Wordpress, Terminal de Comandos, Trello, VS Code, Emmet, Scrum, Kanban, Atomic Desing, Colaboratory, Office e Inglés Técnico.
+> UI/UX, Git/GitHub, HTML, CSS, Bootstrap, Tailwind, Diseño y Desarrollo Responsive, JavaScript, Vue, Json, SQL, Python, Java, C, Markdown, Wordpress, Terminal de Comandos, Trello, VSCode, Emmet, Scrum, Atomic Desing, Google Colaboratory, Office e Inglés Técnico.
 
 ---
 
 ### Contáctame
 
-- [Email](mailto:luisloher.dev@gmail.com)
+- [Email](mailto:luisdurplay@gmail.com)
+- [Whatsapp](https://wa.me/525610294882)
